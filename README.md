@@ -223,7 +223,7 @@ for C in C_values:
 ## **How to Run the Code**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Tesfalegnp/Neural-Network_in_ML.git
    ```
 2. Install dependencies:
    ```bash
@@ -235,5 +235,3 @@ for C in C_values:
    ```
 
 ---
-
-This README provides a comprehensive guide to understanding and running the project. You can copy and paste this into your GitHub repository's `README.md` file. Let me know if you need further assistance! 
