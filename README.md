@@ -30,8 +30,7 @@ We use the [Telco Customer Churn dataset](https://raw.githubusercontent.com/IBM/
 import pandas as pd
 
 # Load Telco Customer Churn dataset
-url = "https://raw.githubusercontent.com/IBM/telco-customer-churn-on-icp4d/master/data/Telco-Customer-Churn.csv"
-data = pd.read_csv(url)
+data = pd.read_csv("bank-additional-full.csv") 
 
 # Display the first few rows
 print(data.head())
