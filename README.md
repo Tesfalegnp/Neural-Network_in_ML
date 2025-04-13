@@ -23,7 +23,6 @@ The **Telco Customer Churn** dataset contains information about customers of a t
 ---
 
 ## **Dataset**
-We use the [Telco Customer Churn dataset](https://raw.githubusercontent.com/IBM/telco-customer-churn-on-icp4d/master/data/Telco-Customer-Churn.csv) for this project. It includes features like `tenure`, `MonthlyCharges`, `TotalCharges`, and `Churn`.
 
 ### **Code: Load Dataset**
 ```python
