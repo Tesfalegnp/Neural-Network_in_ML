@@ -18,7 +18,7 @@ This project compares two classification models—a **Scikit-learn Logistic Regr
 ---
 
 ## **Business Context**
-The **Telco Customer Churn** dataset contains information about customers of a telecom company, including their demographics, services subscribed, and whether they churned (stopped using the service). Predicting churn helps businesses take proactive measures to retain customers, such as offering discounts or personalized services.
+The dataset contains information about customers of a telecom company, including their demographics, services subscribed, and whether they churned (stopped using the service). Predicting churn helps businesses take proactive measures to retain customers, such as offering discounts or personalized services.
 
 ---
 
